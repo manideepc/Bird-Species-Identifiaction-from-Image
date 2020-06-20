@@ -1,5 +1,5 @@
 # Bird-Species-Identifiaction-from-Image
-Now a day some bird species are being found rarely and if found classification of bird
+Now a days some bird species are being found rarely and if found classification of bird
 species prediction is difficult. Naturally, birds present in various scenarios appear in
 different sizes, shapes, colors, and angles from human perspective. Besides, the images
 present strong variations to identify the bird species more than audio classification. Also,
