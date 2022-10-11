@@ -11,5 +11,4 @@ multiple nodes of comparison are generated.
 By establishing the database of standard images features for bird species and using the
 algorithm of similarity comparison, this system is proved to achieve good results in practice
 
-
-http://gjstx-e.cn/gallery/8-jan2021.pdf
+Published a research paper in HTL:http://gjstx-e.cn/gallery/8-jan2021.pdf
